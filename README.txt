@@ -11,8 +11,6 @@ Notable features:
 - Sound effects and Background Music
 - High score (saved by game)
 
-Daily log: https://docs.google.com/document/d/1QDs4WQLTYkCw0QOnlWGWTGNZZbysIgwrLAkAzEpfGpc/edit?usp=sharing
-
 Controls:
 
 Use W/A/S/D or ARROW KEYS (← ↑ → ↓) to move. 
@@ -54,13 +52,4 @@ https://www.youtube.com/watch?v=2U9lWs9ZVZ4
 
 Sound effects:
 https://opengameart.org/content/512-sound-effects-8-bit-style
-
-
-
-
-Game Replit link: https://replit.com/@AbhishekNimalan/Galaxia-Classic
-
-Ayaan's Replit page: https://replit.com/@Noodlemaster
-
-Abhishek's Replit page: https://replit.com/@AbhishekNimalan
 
